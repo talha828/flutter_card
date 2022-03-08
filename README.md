@@ -1,6 +1,7 @@
 # simple_ui
 
 A new Flutter project.
+![65968](https://user-images.githubusercontent.com/61588132/157236941-dc294400-6d6a-42e1-aa85-f49b468cd68a.png)
 
 ## Getting Started
 
